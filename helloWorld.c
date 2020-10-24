@@ -1,6 +1,9 @@
+// program to print a message
+
 #include <stdio.h>
+
 int main() {
-	printf("helloWorld");
+	printf("Hello, world!");
 	return 0;
 }
 	
