@@ -2,7 +2,7 @@
 int main()
 {
 	int age;
-	pritf("enter the age of candidate\n");
+	printf("enter the age of candidate\n");
 	scanf("%d", &age);
 	if (age <= 18)
 	{
