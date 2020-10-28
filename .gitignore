@@ -3,4 +3,4 @@
 
 # C executable
 *.exe
-
+*.out
