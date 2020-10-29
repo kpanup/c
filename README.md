@@ -1,10 +1,10 @@
-# README
+# The C Programming Language
 
-## Helpful commands
+## Helper
 
-- `$ vim helloWorld.c` : write the program
+- `$ vim HelloWorld.c` : write the program
 - `i` : insert mode in `Vim`
 - `:wq` : save and exit `Vim`
-- `Esc` : exit insert mode in `Vim`
-- `$ gcc -o helloWorld helloWorld.c` : compile the program
-- `$ helloWorld` : run the program
+- `esc` : exit insert mode in `Vim`
+- `$ gcc -o HelloWorld HelloWorld.c` : compile the program or just `$ gcc HelloWorld.c`, this will created the executable as `a.exe` (in windows) or `a.out` (in MacOS)
+- `$ HelloWorld` : run the program
